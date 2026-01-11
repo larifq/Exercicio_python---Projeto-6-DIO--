@@ -1,0 +1,5 @@
+palavra = str(input("Digite a primeira palavra: "))
+numero = int(input("Digite um número: "))
+
+for i in range(numero):
+    print(palavra)
